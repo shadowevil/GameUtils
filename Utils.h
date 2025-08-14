@@ -1,0 +1,12 @@
+#pragma once
+#include "Color.h"
+#include "Colors.h"
+#include "CustomRaylibLog.h"
+#include "GameTime.h"
+#include "Point.h"
+#include "Size.h"
+#include "Thickness.h"
+#include "Rectangle.h"
+#include "Alignment.h"
+#include "GUID.h"
+#include "stdextended.h"
